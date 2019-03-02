@@ -6,7 +6,7 @@
 			background-color:rgba(0,26,51,.9);
 			color:white !important;
 		}
-		@font-face{font-family:MY4;src:url("libraries/fonts/MY4.ttf");}
+		@font-face{font-family:MY4;src:url("fonts/MY4.ttf");}
 		.myfont4{font-family:MY4;}
 		a {
 			text-decoration:none; 
